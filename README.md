@@ -1,2 +1,2 @@
 # links
-リンクス
+iknegのlinks。遅いよ！
