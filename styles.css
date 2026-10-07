@@ -2,13 +2,25 @@ body {
   margin: 0;
   background: #e7e7e7;
 }
-
 .container {
   box-sizing: border-box;
   width: 100%;
   max-width: 768px;
   min-height: 100vh;
   margin-inline: auto;
-  padding: clamp(20px, 2.5vw, 20px);
+  padding: 40px;
   background: #fff;
+}
+
+.aboutme {
+    display: flex;
+    gap: 20px;
+}
+
+.aboutme p {
+    line-height: 1rem;
+}
+
+.links {
+    margin: 50px 0;
 }
